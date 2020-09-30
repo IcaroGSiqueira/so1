@@ -1,0 +1,33 @@
+Crie um script que liste na tela 10 números crescentes (de 1 em 1) a partir de um valor inicial fornecido quando script é chamado (passado como parâmetro) [variar o total de números, o fator de crescimento e o critério de parada].
+
+	Crie um script que liste na tela 10 números crescentes e ao lado o seu quadrado. Os números deverão crescer de 1 em 1, a partir de um valor inicial passado como parâmetro quando script é chamado.
+
+	Crie um script que liste na tela números decrescentes e ao lado a sua multiplicação por 3. Os números deverão decrescer de 1 em 1 até zero, a partir de um valor inicial passado como parâmetro quando script é chamado.
+
+Desenvolva um script que pergunte por dois operandos e a operação a ser realizada. Devem ser permitidas no mínimos as quatro operações aritméticas básicas (+, -, x e /). Os operandos devem ser perguntados na tela, bem como a operação a ser efetuada. Ao final de cada operação, deverá ser feita a pergunta: Realizar nova operação? [variar o número de operandos e operações]
+
+	Desenvolva um script que pergunte por dois operandos e realize sobre os mesmos as quatro operações aritméticas.
+
+	Construa um script que receba como parâmetro dois operandos e a operação aritmética a ser realizada. Faça previsão para suportar as quatro operações (+, -, x e /).
+
+Elabore um script utilizando uma estrutura de repetição for que imprima os dias da semana. [impressão condicional em função da data, considerando um mês inteiro]
+
+	Elabore um script utilizando uma estrutura de repetição for que imprima os dias da semana e ao lado o número correspondente (associe o domingo ao número 1).
+
+Construa um scrip que some os valores colocados em um arquivo do tipo TXT. Deve ser colocado um valor por linha no arquivo. O nome do arquivo deverá ser passado como parâmetro. [variante: multiplicar (dividir, somar, etc.) as linhas do arquivo por uma constante passada como parâmetro, e gerar um novo arquivo]
+
+Construa um scrip que some o número 5 aos valores existentes em cada uma das linhas de um arquivo txt. Deverá ser gerado um outro arquivo com os valores decorrentes da soma. [subtrair, subtrair somente de valores superiores a 8, etc.]
+
+Elabore um script que identifique qual linha tem o maior valor em um arquivo TXT. Cada linha do arquivo terá apenas um número e o maior valor deverá ser impresso na tela. [qual linha tem o menor valor, quais linhas tem números pares]
+
+Elabore um script que some todos os parâmetros informados (argumentos) quando da sua chamada. O número de argumentos poderá variar. [variantes: multiplique, faça o quadrado e depois some, etc.]
+
+Construa um script utilizando um laço While que informe na tela se o arquivo “pagamentos.txt” existe. Caso o arquivo exista deve ser impresso “arquivo existe”, caso contrário “arquivo não existe”. O script deve permanecer em excução, e o arquivo deve ser criado/apagado através de outro terminal. [verificar se o conteúdo da primeira linha é maior que N, e realizar algo - pode ser a soma das três primeiras linhas ser maior que N, e então fazer algo]
+
+Elabore um script que incremente de 1 em 1 um valor impresso na tela, a partir de um primeiro parâmetro, até que seja atingido o valor do segundo parâmetro. Caso o segundo parâmetro seja menor ou igual que o primeiro a execução deve ser encerrada. [trabalhar com decremento ou o teste pode ser feito com a primeira linha de um arquivo, o qual será passado como parâmetro]
+
+Elabore um script que crie os diretórios passados como parâmetros.
+
+Desenvolva um script que teste o dia corrente da semana, caso seja sexta-feira, deverá ser impresso “SSSS”, caso contrário deverá ser impresso o dia corrente da semana [trocar o dia da semana, avaliar o mês inteiro, destacando as ????-feira]
+
+Crie um script que imprima o dia da semana. Associe 1 ao domingo, e imprima os dias faltantes até sábado. [imprimir os dias do mês corrente que irão cair em uma quarta-feira]
