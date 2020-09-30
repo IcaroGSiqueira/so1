@@ -4,7 +4,7 @@ echo -n "Digite um Número: "
 read i
 cont=0 
 echo "LISTA: "
-while [ $cont -lt 10 ] # total de numeros, -lt = crescente -gt = decrescente
+while [ $cont -lt 10 ] # total de numeros, -lt = menor que -gt = maior que
 do
 	let cont=cont+1 # fator de crescimento
 
