@@ -8,13 +8,13 @@ read i2
 
 echo "LISTA: "
 
-if [ $i -ge $i2 ]
+if [ $i -le $i2 ]
 then
 	break
 fi
 
-while [ $i -lt $i2 ]
+while [ $i -gt $i2 ]
 do	
 	echo $i
-	let i++
+	let i--
 done
