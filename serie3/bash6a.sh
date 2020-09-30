@@ -3,13 +3,13 @@
 echo "Nome do arquivo: "
 read arq
 
-linemai=$(head -n 1 $arq)
+linemen=$(head -n 1 $arq)
 
 for line in $(cat $arq)
 do
-	if [ $line -gt $linemai ]
+	if [ $line -lt $linemen ]
 	then
-		linemai=$line
+		linemen=$line
 	fi
 done
-echo $linemai
+echo $linemen
